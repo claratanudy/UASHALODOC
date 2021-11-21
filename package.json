@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claratanudy/UASHALODOC.git"
+    "url": "git+https://github.com/will1511/testdeploy.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/claratanudy/UASHALODOC/issues"
+    "url": "https://github.com/will1511/testdeploy/issues"
   },
-  "homepage": "https://github.com/claratanudy/UASHALODOC#readme",
+  "homepage": "https://github.com/will1511/testdeploy#readme",
   "description": ""
 }
