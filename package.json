@@ -1,12 +1,11 @@
 {
   "name": "sesudah-uts",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "nodemon app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Clara Tanudy",
   "license": "ISC",
@@ -23,5 +22,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will1511/testdeploy.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/will1511/testdeploy/issues"
+  },
+  "homepage": "https://github.com/will1511/testdeploy#readme",
+  "description": ""
 }
