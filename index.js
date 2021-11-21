@@ -68,6 +68,7 @@ app.use('/', indexRouter);
 // 	response.end();
 // });
 
-app.listen('4000', () => {
-    console.log('Server sudah berjalan di port 4000')
+const port = process.any.PORT || 4000
+app.listen(port, () => {
+    console.log('Server sudah berjalan!')
 })
